@@ -7,4 +7,4 @@ Projeto desenvolvido na imersão dev alura, onde pude colocar em prática o java
 - CSS
 - Javascript
 
-<!-- [<img src="./src/img/conversor-de-moedas.gif" alt="gif da tela do conversor de moeda">]  -->
+[<img src="./src/img/conversor-de-moedas.gif" alt="gif da tela do conversor de moeda">] 
