@@ -1,10 +1,16 @@
-# Conversor-de-moedas
+## Conversor-de-moedas 🪙
+Aplicação que tem o objetivo de converter real para outro tipo de moeda como dólar, libra, euro e bitcoin.
 
-Projeto desenvolvido na imersão dev alura, onde pude colocar em prática o javascript, codando um conversor de moedas.
+## Deploy 🖥️
+```
+https://rayane-araujo.github.io/conversor-de-moedas/
+```
 
-## Linguagem utilizada:
+## Linguagens utilizadas: 
 - HTML
 - CSS
 - Javascript
+
+## Preview 📷
 
 [<img src="./src/img/conversor-de-moedas.gif" alt="gif da tela do conversor de moeda">] 
